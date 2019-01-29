@@ -1,0 +1,166 @@
+{
+    "tiers": [
+        {
+            "tier": 1,
+            "players": [
+                {
+                    "positionRank": 1,
+                    "name": "Rob Gronkowski"
+                }
+            ]
+        },
+        {
+            "tier": 2,
+            "players": [
+                {
+                    "positionRank": 2,
+                    "name": "Travis Kelce"
+                },
+                {
+                    "positionRank": 3,
+                    "name": "Greg Olsen"
+                }
+            ]
+        },
+        {
+            "tier": 3,
+            "players": [
+                {
+                    "positionRank": 4,
+                    "name": "Jimmy Graham"
+                },
+                {
+                    "positionRank": 5,
+                    "name": "Jordan Reed"
+                }
+            ]
+        },
+        {
+            "tier": 4,
+            "players": [
+                {
+                    "positionRank": 6,
+                    "name": "Tyler Eifert"
+                },
+                {
+                    "positionRank": 7,
+                    "name": "Kyle Rudolph"
+                },
+                {
+                    "positionRank": 8,
+                    "name": "Delanie Walker"
+                }
+            ]
+        },
+        {
+            "tier": 5,
+            "players": [
+                {
+                    "positionRank": 9,
+                    "name": "Hunter Henry"
+                }
+            ]
+        },
+        {
+            "tier": 6,
+            "players": [
+                {
+                    "positionRank": 10,
+                    "name": "Martellus Bennett"
+                },
+                {
+                    "positionRank": 11,
+                    "name": "Zach Ertz"
+                },
+                {
+                    "positionRank": 12,
+                    "name": "Eric Ebron"
+                },
+                {
+                    "positionRank": 13,
+                    "name": "Jack Doyle"
+                }
+            ]
+        },
+        {
+            "tier": 7,
+            "players": [
+                {
+                    "positionRank": 14,
+                    "name": "Coby Fleener"
+                },
+                {
+                    "positionRank": 15,
+                    "name": "Austin Hooper"
+                }
+            ]
+        },
+        {
+            "tier": 8,
+            "players": [
+                {
+                    "positionRank": 16,
+                    "name": "Cameron Brate"
+                },
+                {
+                    "positionRank": 17,
+                    "name": "Julius Thomas"
+                },
+                {
+                    "positionRank": 18,
+                    "name": "CJ Fiedorowicz"
+                },
+                {
+                    "positionRank": 19,
+                    "name": "Jason Witten"
+                }
+            ]
+        },
+        {
+            "tier": 9,
+            "players": [
+                {
+                    "positionRank": 20,
+                    "name": "Charles Clay"
+                },
+                {
+                    "positionRank": 21,
+                    "name": "Antonio Gates"
+                },
+                {
+                    "positionRank": 22,
+                    "name": "Jared Cook"
+                }
+            ]
+        },
+        {
+            "tier": 10,
+            "players": [
+                {
+                    "positionRank": 23,
+                    "name": "O.J. Howard"
+                },
+                {
+                    "positionRank": 24,
+                    "name": "David Njoku"
+                },
+                {
+                    "positionRank": 25,
+                    "name": "Evan Engram"
+                },
+                {
+                    "positionRank": 26,
+                    "name": "Jesse James"
+                },
+                {
+                    "positionRank": 27,
+                    "name": "Austin Seferian-Jenkins"
+                },
+                {
+                    "positionRank": 28,
+                    "name": "Dwayne Allen"
+                }
+            ]
+        }
+    ]
+}

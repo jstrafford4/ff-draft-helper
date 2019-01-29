@@ -1,0 +1,23 @@
+.qb, .te {
+    max-height: 600px;
+    overflow-y:scroll;
+}
+
+.rb, .wr {
+    max-height: 1200px;
+    overflow-y:scroll;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr.strikeout {
+  opacity:.4;
+  text-decoration: line-through;
+}
+
+
+.colorExempt {
+    max-width:20px;
+}

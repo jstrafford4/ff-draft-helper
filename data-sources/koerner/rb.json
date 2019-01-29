@@ -1,0 +1,346 @@
+{
+    "tiers": [
+        {
+            "tier": 1,
+            "players": [
+                {
+                    "positionRank": 1,
+                    "name": "David Johnson"
+                }
+            ]
+        },
+        {
+            "tier": 2,
+            "players": [
+                {
+                    "positionRank": 2,
+                    "name": "Le’Veon Bell"
+                },
+                {
+                    "positionRank": 3,
+                    "name": "Ezekiel Elliott"
+                }
+            ]
+        },
+        {
+            "tier": 3,
+            "players": [
+                {
+                    "positionRank": 4,
+                    "name": "LeSean McCoy"
+                },
+                {
+                    "positionRank": 5,
+                    "name": "Melvin Gordon"
+                }
+            ]
+        },
+        {
+            "tier": 4,
+            "players": [
+                {
+                    "positionRank": 6,
+                    "name": "Jay Ajayi"
+                },
+                {
+                    "positionRank": 7,
+                    "name": "Jordan Howard"
+                },
+                {
+                    "positionRank": 8,
+                    "name": "Devonta Freeman"
+                },
+                {
+                    "positionRank": 9,
+                    "name": "Demarco Murray"
+                }
+            ]
+        },
+        {
+            "tier": 5,
+            "players": [
+                {
+                    "positionRank": 10,
+                    "name": "Leonard Fournette"
+                },
+                {
+                    "positionRank": 11,
+                    "name": "Isaiah Crowell"
+                },
+                {
+                    "positionRank": 12,
+                    "name": "Todd Gurley"
+                },
+                {
+                    "positionRank": 13,
+                    "name": "Lamar Miller"
+                }
+            ]
+        },
+        {
+            "tier": 6,
+            "players": [
+                {
+                    "positionRank": 14,
+                    "name": "Marshawn Lynch"
+                },
+                {
+                    "positionRank": 15,
+                    "name": "Dalvin Cook"
+                }
+            ]
+        },
+        {
+            "tier": 7,
+            "players": [
+                {
+                    "positionRank": 16,
+                    "name": "Ty Montgomery"
+                },
+                {
+                    "positionRank": 17,
+                    "name": "Spencer Ware"
+                }
+            ]
+        },
+        {
+            "tier": 8,
+            "players": [
+                {
+                    "positionRank": 18,
+                    "name": "Joe Mixon"
+                },
+                {
+                    "positionRank": 19,
+                    "name": "Carlos Hyde"
+                },
+                {
+                    "positionRank": 20,
+                    "name": "Christian McCaffrey"
+                },
+                {
+                    "positionRank": 21,
+                    "name": "Tevin Coleman"
+                },
+                {
+                    "positionRank": 22,
+                    "name": "Bilal Powell"
+                }
+            ]
+        },
+        {
+            "tier": 9,
+            "players": [
+                {
+                    "positionRank": 23,
+                    "name": "Eddie Lacy"
+                },
+                {
+                    "positionRank": 24,
+                    "name": "Mike Gillislee"
+                },
+                {
+                    "positionRank": 25,
+                    "name": "Terrance West"
+                },
+                {
+                    "positionRank": 26,
+                    "name": "Mark Ingram"
+                },
+                {
+                    "positionRank": 27,
+                    "name": "Frank Gore"
+                },
+                {
+                    "positionRank": 28,
+                    "name": "Ameer Abdullah"
+                },
+                {
+                    "positionRank": 29,
+                    "name": "C.J. Anderson"
+                },
+                {
+                    "positionRank": 30,
+                    "name": "LeGarrette Blount"
+                },
+                {
+                    "positionRank": 31,
+                    "name": "Adrian Peterson"
+                },
+                {
+                    "positionRank": 32,
+                    "name": "Paul Perkins"
+                },
+                {
+                    "positionRank": 33,
+                    "name": "Doug Martin"
+                }
+            ]
+        },
+        {
+            "tier": 10,
+            "players": [
+                {
+                    "positionRank": 34,
+                    "name": "Derrick Henry"
+                },
+                {
+                    "positionRank": 35,
+                    "name": "Matt Forte"
+                },
+                {
+                    "positionRank": 36,
+                    "name": "Jonathan Stewart"
+                },
+                {
+                    "positionRank": 37,
+                    "name": "Danny Woodhead"
+                }
+            ]
+        },
+        {
+            "tier": 11,
+            "players": [
+                {
+                    "positionRank": 38,
+                    "name": "Theo Riddick"
+                },
+                {
+                    "positionRank": 39,
+                    "name": "Duke Johnson Jr."
+                },
+                {
+                    "positionRank": 40,
+                    "name": "Samaje Perine"
+                },
+                {
+                    "positionRank": 41,
+                    "name": "Rob Kelley"
+                },
+                {
+                    "positionRank": 42,
+                    "name": "Darren Sproles"
+                }
+            ]
+        },
+        {
+            "tier": 12,
+            "players": [
+                {
+                    "positionRank": 43,
+                    "name": "James White"
+                },
+                {
+                    "positionRank": 44,
+                    "name": "Jamaal Charles"
+                },
+                {
+                    "positionRank": 45,
+                    "name": "Kareem Hunt"
+                },
+                {
+                    "positionRank": 46,
+                    "name": "Giovani Bernard"
+                },
+                {
+                    "positionRank": 47,
+                    "name": "Shane Vereen"
+                },
+                {
+                    "positionRank": 48,
+                    "name": "Latavius Murray"
+                },
+                {
+                    "positionRank": 49,
+                    "name": "C.J. Prosise"
+                }
+            ]
+        },
+        {
+            "tier": 13,
+            "players": [
+                {
+                    "positionRank": 50,
+                    "name": "Chris Thompson"
+                },
+                {
+                    "positionRank": 51,
+                    "name": "Jonathan Williams"
+                },
+                {
+                    "positionRank": 52,
+                    "name": "Jalen Richard"
+                },
+                {
+                    "positionRank": 53,
+                    "name": "Robert Turbin"
+                },
+                {
+                    "positionRank": 54,
+                    "name": "Rex Burkhead"
+                },
+                {
+                    "positionRank": 55,
+                    "name": "DeAndre Washington"
+                },
+                {
+                    "positionRank": 56,
+                    "name": "Jeremy Hill"
+                },
+                {
+                    "positionRank": 57,
+                    "name": "Joe Williams"
+                },
+                {
+                    "positionRank": 58,
+                    "name": "Devontae Booker"
+                },
+                {
+                    "positionRank": 59,
+                    "name": "Tim Hightower"
+                },
+                {
+                    "positionRank": 60,
+                    "name": "Darren McFadden"
+                }
+            ]
+        },
+        {
+            "tier": 14,
+            "players": [
+                {
+                    "positionRank": 61,
+                    "name": "Jacquizz Rodgers"
+                },
+                {
+                    "positionRank": 62,
+                    "name": "Alvin Kamara"
+                },
+                {
+                    "positionRank": 63,
+                    "name": "Charles Sims"
+                },
+                {
+                    "positionRank": 64,
+                    "name": "Thomas Rawls"
+                },
+                {
+                    "positionRank": 65,
+                    "name": "Jamaal Williams"
+                },
+                {
+                    "positionRank": 66,
+                    "name": "T.J. Yeldon"
+                },
+                {
+                    "positionRank": 67,
+                    "name": "Dion Lewis"
+                },
+                {
+                    "positionRank": 68,
+                    "name": "D’Onta Foreman"
+                }
+            ]
+        }
+    ]
+}

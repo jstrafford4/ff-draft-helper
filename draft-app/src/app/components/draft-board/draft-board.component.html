@@ -1,0 +1,50 @@
+<div class="row">
+  <div class="col-xs-3">
+    <table class="table">
+      <tbody>
+        <tr *ngFor="let qb of qbs" (click)="draft(qb)" [ngClass]="tierColor(qb, qb.rankings.koerner.tier)" > 
+          <td class="colorExempt">{{qb.rankings.koerner.posRank}}</td>
+          <td>{{qb.displayName}}</td>
+          <td>{{qb.ratio}}</td>
+          <td class="right">{{qb.rankings.koerner.tier}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="col-xs-3 rb">
+    <table class="table">
+      <tbody>
+        <tr *ngFor="let rb of rbs" (click)="draft(rb)" [ngClass]="tierColor(rb, rb.rankings.koerner.tier)" > 
+          <td class="colorExempt">{{rb.rankings.koerner.posRank}}</td>
+          <td>{{rb.displayName}}</td>
+          <td>{{rb.ratio}}</td>
+          <td class="right">{{rb.rankings.koerner.tier}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="col-xs-3 wr">
+    <table class="table">
+      <tbody class="colorExempt">
+        <tr *ngFor="let wr of wrs" (click)="draft(wr)" [ngClass]="tierColor(wr, wr.rankings.koerner.tier)" >
+          <td>{{wr.rankings.koerner.posRank}}</td>
+          <td>{{wr.displayName}}</td>
+          <td>{{wr.ratio}}</td>
+          <td class="right">{{wr.rankings.koerner.tier}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="col-xs-3">
+    <table class="table">
+      <tbody>
+        <tr *ngFor="let te of tes" (click)="draft(te)" [ngClass]="tierColor(te, te.rankings.koerner.tier)" > 
+          <td class="colorExempt">{{te.rankings.koerner.posRank}}</td>
+          <td>{{te.displayName}}</td>
+          <td>{{te.ratio}}</td>
+          <td class="right">{{te.rankings.koerner.tier}}</td>
+        </tr>
+      </tbody>
+    </table>
+</div>
+

@@ -1,0 +1,18 @@
+<h4>{{name}}</h4>
+  <div class="col-xs-11" *ngFor="let players of positions">
+    <hr>
+    <h6>{{players[0].position}}</h6>
+    <hr>
+    <table class="table">
+      <tbody>
+        <tr *ngFor="let player of players" [ngClass]="tierColor(player)" > 
+          <td>{{player.displayName}}</td>
+          <td>{{player[name].gameInfo}}
+          <td>{{player[name].ppg}}</td>
+          <td>{{player[name].salary}}</td>
+          <td class="right"><input (focusout)="saveScore(player)" [(ngModel)]="player[name].score" /></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+

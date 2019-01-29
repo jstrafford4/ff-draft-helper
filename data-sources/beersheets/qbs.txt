@@ -1,0 +1,14 @@
+Aaron Rodgers		GB/8		4.4	8/11/15		4.8	73%
+Tom Brady		NE/9		4.8	5/6/11		3.4	54%
+Drew Brees		NO/5		5.2	7/9/15		2.4	41%
+Matt Ryan		ATL/5		7.3	4/9/15		1.7	31%
+Russell Wilson		SEA/6		7.2	6/6/15		1.7	22%
+Andrew Luck		IND/11		7.9	3/8/14		1.5	13%
+Jameis Winston		TB/11		9.6	2/5/15		0.5	10%
+Marcus Mariota		TEN/8		9.4	4/7/15		0.5	7%
+Kirk Cousins		WAS/5		8.8	4/6/15		0.5	4%
+Cam Newton		CAR/11		9.8	2/6/14		0.5	2%
+Dak Prescott		DAL/6		11.2	2/9/15		0.3	0%
+Philip Rivers		LAC/9		11.6	2/3/15		-0.1	0%
+Derek Carr		OAK/10		10.6	3/6/15		-0.1	0%
+Matthew Stafford		DET/7		11.7	4/7/15		-0.2	0%

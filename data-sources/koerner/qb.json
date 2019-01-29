@@ -1,0 +1,163 @@
+{
+    "tiers": [
+        {
+            "tier": 1,
+            "players": [
+                {
+                    "positionRank": 1,
+                    "name": "Aaron Rodgers"
+                }
+            ]
+        },
+        {
+            "tier": 2,
+            "players": [
+                {
+                    "positionRank": 2,
+                    "name": "Tom Brady"
+                }
+            ]
+        },
+        {
+            "tier": 3,
+            "players": [
+                {
+                    "positionRank": 3,
+                    "name": "Drew Brees"
+                },
+                {
+                    "positionRank": 4,
+                    "name": " Andrew Luck"
+                }
+            ]
+        },
+        {
+            "tier": 4,
+            "players": [
+                {
+                    "positionRank": 5,
+                    "name": "Matt Ryan"
+                },
+                {
+                    "positionRank": 6,
+                    "name": " Russell Wilson"
+                }
+            ]
+        },
+        {
+            "tier": 5,
+            "players": [
+                {
+                    "positionRank": 7,
+                    "name": "Jameis Winston"
+                }
+            ]
+        },
+        {
+            "tier": 6,
+            "players": [
+                {
+                    "positionRank": 8,
+                    "name": "Kirk Cousins"
+                },
+                {
+                    "positionRank": 9,
+                    "name": " Marcus Mariota"
+                },
+                {
+                    "positionRank": 10,
+                    "name": " Cam Newton"
+                },
+                {
+                    "positionRank": 11,
+                    "name": " Dak Prescott"
+                },
+                {
+                    "positionRank": 12,
+                    "name": " Derek Carr"
+                }
+            ]
+        },
+        {
+            "tier": 7,
+            "players": [
+                {
+                    "positionRank": 13,
+                    "name": "Ben Roethlisberger"
+                },
+                {
+                    "positionRank": 14,
+                    "name": " Philip Rivers"
+                },
+                {
+                    "positionRank": 15,
+                    "name": " Matthew Stafford"
+                },
+                {
+                    "positionRank": 16,
+                    "name": " Tyrod Taylor"
+                },
+                {
+                    "positionRank": 17,
+                    "name": " Andy Dalton"
+                }
+            ]
+        },
+        {
+            "tier": 8,
+            "players": [
+                {
+                    "positionRank": 18,
+                    "name": "Eli Manning"
+                },
+                {
+                    "positionRank": 19,
+                    "name": " Blake Bortles"
+                }
+            ]
+        },
+        {
+            "tier": 9,
+            "players": [
+                {
+                    "positionRank": 20,
+                    "name": "Carson Wentz"
+                },
+                {
+                    "positionRank": 21,
+                    "name": " Ryan Tannehill"
+                },
+                {
+                    "positionRank": 22,
+                    "name": " Carson Palmer"
+                }
+            ]
+        },
+        {
+            "tier": 10,
+            "players": [
+                {
+                    "positionRank": 23,
+                    "name": "Joe Flacco"
+                },
+                {
+                    "positionRank": 24,
+                    "name": " Alex Smith"
+                },
+                {
+                    "positionRank": 25,
+                    "name": " Sam Bradford"
+                }
+            ]
+        },
+        {
+            "tier": 11,
+            "players": [
+                {
+                    "positionRank": 26,
+                    "name": "Deshaun Watson"
+                }
+            ]
+        }
+    ]
+}
